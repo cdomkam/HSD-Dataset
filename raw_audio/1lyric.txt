@@ -1,0 +1,13 @@
+[0.00, 29.00]:  There ain't no gold in this river that I've been washing my hands in forever
+[29.00, 36.00]:  I know there is hope in these waters
+[36.00, 44.00]:  But I can't bring myself to swim when I am drowning
+[44.00, 59.00]:  And in this island's baby, let me go easy on me baby
+[59.00, 73.00]:  I was still a child, didn't get the chance to feel the world around me
+[73.00, 81.00]:  I had no time to choose what I chose to do
+[81.00, 96.00]:  So go easy on me
+[96.00, 103.00]:  There ain't no room for things to change
+[103.00, 111.00]:  When we are both so deeply stuck in our ways
+[111.00, 119.00]:  You can't deny how hard I've tried
+[119.00, 130.00]:  I changed who I was to, put you both first but now I give up
+[130.00, 148.00]:  Go easy on me baby, I was still a child, didn't get the chance to feel the world around me
+[148.00, 166.00]:  I had no time to choose what I chose to do so go easy on me
