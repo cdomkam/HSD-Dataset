@@ -30,6 +30,7 @@ if __name__=="__main__":
                     if merged_track[-1].type!='note_on':
                         merged_track[-1].time+=new_note_time
                         new_note_time=0
+                        prev=msg
             if msg.type == 'note_off':
                 prev=msg
 
@@ -39,7 +40,8 @@ if __name__=="__main__":
             # print(merged_track[-1])
             
             if msg.type=='end_of_track':
-                if merged_track[-3].note==prev.note:
+                
+                if prev and merged_track[-3].note==prev.note:
                     merged_track[-2].time+=new_note_time
                     
                 
